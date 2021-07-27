@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllInONe", "AllInONe\AllInONe.csproj", "{055D75D1-6351-43B5-AA12-FC0BD17A4451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055D75D1-6351-43B5-AA12-FC0BD17A4451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055D75D1-6351-43B5-AA12-FC0BD17A4451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055D75D1-6351-43B5-AA12-FC0BD17A4451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055D75D1-6351-43B5-AA12-FC0BD17A4451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
